@@ -16,7 +16,7 @@ const data = [{
 },{
   name: "Brian Chien",
   avatar: IMG2,
-  review: "She is so powerful,and fulled of activity person."
+  review: "She can do things carefully,and always keep her passion."
 }]
 
 const Testmonials = () => {
@@ -41,6 +41,8 @@ const Testmonials = () => {
         })}
 
       </Swiper>
+
+      
 
     </section>
   )
