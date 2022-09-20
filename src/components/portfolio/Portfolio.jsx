@@ -21,7 +21,7 @@ const data = [{
   img: IMG3,
   title: 'This is my another portfolio Website',
   gitthub: 'https://github.com',
-  demo: 'Anna870628.github.io/index.html'
+  demo: 'https://anna870628.github.io/index.html'
 }]
 const Portfolio = () => {
   return (
